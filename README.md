@@ -8,7 +8,7 @@ shorter, focused summaries that capture the salient details.
 The main goal of this research is to examine what type of summaries do human
 users prefer. Thus, we compare the performance of a straightforward Attention-
 Based Encoder-Decoder abstractive summarization method, against a hybrid model
-that rstly detects the most important parts of the original document, and then uses
+that. Firstly detects the most important parts of the original document, and then uses
 paraphrasing in order to create a novel summary, on the non-anonymized version of
 the CNN/Daily dataset. Besides ROUGE, that is being used as a baseline automatic
 evaluation metric, we conduct a human evaluation experiment in order to assess the
